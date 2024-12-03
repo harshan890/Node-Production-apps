@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1
+# jpj syntax=docker/dockerfile:1
 
 FROM node:20-alpine
 WORKDIR /app
